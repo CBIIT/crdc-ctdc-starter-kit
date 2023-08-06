@@ -4,3 +4,12 @@
 [submodule "crdc-ctdc-backend"]
 	path = crdc-ctdc-backend
 	url = https://github.com/CBIIT/crdc-ctdc-backend.git
+[submodule "crdc-ctdc-ui"]
+	path = crdc-ctdc-ui
+	url = https://github.com/CBIIT/crdc-ctdc-ui
+[submodule "ctdc-model"]
+	path = ctdc-model
+	url = https://github.com/CBIIT/ctdc-model
+[submodule "ctdc-deployments"]
+	path = ctdc-deployments
+	url = https://github.com/CBIIT/ctdc-deployments
