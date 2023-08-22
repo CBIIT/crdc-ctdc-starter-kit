@@ -13,3 +13,6 @@
 [submodule "ctdc-deployments"]
 	path = ctdc-deployments
 	url = https://github.com/CBIIT/ctdc-deployments
+[submodule "crdc-ctdc-dataloader"]
+	path = crdc-ctdc-dataloader
+	url = https://github.com/CBIIT/crdc-ctdc-dataloader
