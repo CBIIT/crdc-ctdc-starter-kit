@@ -49,15 +49,15 @@ graph TD
     O[OpenSearch]
   end
 
-  subgraph JSON Data
-    JSON[JSON Data]
+  subgraph TSV Data
+    TSV[TSV Data]
   end
 
   F -->|GraphQL| B
   B -->|Queries/Responses| N
   B -->|Queries/Responses| O
 
-  JSON -->|Data Loading| DL
+  TSV -->|Data Loading| DL
   IndexFile -->|ES Loader| O
   DL -->  IndexFile 
   DL -->|Data Loader| N
