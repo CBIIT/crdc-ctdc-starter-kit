@@ -16,3 +16,9 @@
 [submodule "crdc-ctdc-dataloader"]
 	path = crdc-ctdc-dataloader
 	url = https://github.com/CBIIT/crdc-ctdc-dataloader
+[submodule "crdc-ctdc-files"]
+	path = crdc-ctdc-files
+	url = https://github.com/CBIIT/crdc-ctdc-files
+[submodule "crdc-ctdc-auth"]
+	path = crdc-ctdc-auth
+	url = https://github.com/CBIIT/crdc-ctdc-auth
