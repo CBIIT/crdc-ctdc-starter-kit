@@ -1,4 +1,4 @@
-# crdc-ctdc-starter-kit
+# Clinical and Translational Data Commons (CTDC) starter kit
 
 ## Components:
 <ul>
