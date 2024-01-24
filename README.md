@@ -64,3 +64,7 @@ graph TD
 
 
 ```
+
+
+![Example Image]([https://example.com/image.jpg](https://raw.githubusercontent.com/CBIIT/crdc-ctdc-starter-kit/main/ctdc-system-design-core.gif )https://raw.githubusercontent.com/CBIIT/crdc-ctdc-starter-kit/main/ctdc-system-design-core.gif )
+ 
