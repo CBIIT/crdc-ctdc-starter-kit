@@ -25,47 +25,6 @@
 
 
 ## System diagram
-<!-- This is a comment 
 
-```mermaid
-
-graph TD
-  subgraph Frontend
-    F[Frontend]
-  end
-
-  subgraph Backend
-    B[Backend]
-  end
-
-  subgraph Data Loader
-    DL[Data Loader]
-  end
-
-  subgraph Neo4j Database
-    N[Neo4j]
-  end
-
-  subgraph OpenSearch Database
-    O[OpenSearch]
-  end
-
-  subgraph TSV Data
-    TSV[TSV Data]
-  end
-
-  F -->|GraphQL| B
-  B -->|Queries/Responses| N
-  B -->|Queries/Responses| O
-
-  TSV -->|Data Loading| DL
-  IndexFile -->|ES Loader| O
-  DL -->  IndexFile 
-  DL -->|Data Loader| N
-
-
-```
-
--->
 ![CTDC System design ](https://raw.githubusercontent.com/CBIIT/crdc-ctdc-starter-kit/main/ctdc-system-design-core.gif  )
  
