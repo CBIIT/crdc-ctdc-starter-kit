@@ -22,3 +22,6 @@
 [submodule "crdc-ctdc-auth"]
 	path = crdc-ctdc-auth
 	url = https://github.com/CBIIT/crdc-ctdc-auth
+[submodule "bento-ctdc-static-content"]
+	path = bento-ctdc-static-content
+	url = https://github.com/CBIIT/bento-ctdc-static-content.git
