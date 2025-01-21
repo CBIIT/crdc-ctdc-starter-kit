@@ -25,3 +25,7 @@
 [submodule "bento-ctdc-static-content"]
 	path = bento-ctdc-static-content
 	url = https://github.com/CBIIT/bento-ctdc-static-content.git
+[submodule "crdc-ctdc-interoperation"]
+	path = crdc-ctdc-interoperation
+	url = https://github.com/CBIIT/crdc-ctdc-interoperation.git
+
