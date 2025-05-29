@@ -29,3 +29,7 @@
 	path = crdc-ctdc-interoperation
 	url = https://github.com/CBIIT/crdc-ctdc-interoperation.git
 
+[submodule "ctdc-readMe-content"]
+	path = ctdc-readMe-content
+	url = https://github.com/CBIIT/ctdc-readMe-content.git
+	branch = prod
